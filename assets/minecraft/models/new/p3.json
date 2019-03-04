@@ -1,0 +1,1 @@
+{"textures":{"0":"dungoen/nether_portal","particle":"dungoen/nether_portal"},"elements":[{"from":[-16,1,0],"to":[32,1,32],"faces":{"up":{"uv":[4,0,10,4],"texture":"#0"}}}]}

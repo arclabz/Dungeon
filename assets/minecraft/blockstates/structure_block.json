@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "mode=save": { "model": "block/redstone_block" },
+        "mode=load": { "model": "block/redstone_block" },
+        "mode=corner": { "model": "block/redstone_block" },
+        "mode=data": { "model": "block/redstone_block" }
+    }
+}
