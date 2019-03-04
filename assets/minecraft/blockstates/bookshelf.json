@@ -13,7 +13,7 @@
               { "model": "block/bookshelf8",  "weight": 2   },
               { "model": "block/bookshelf9",  "weight": 4   },
               { "model": "block/bookshelf10", "weight": 20  },
-              { "model": "block/bookshelf11", "weight": 23  },
+              { "model": "block/bookshelf11", "weight": 10  },
               { "model": "block/bookshelf12", "weight": 17  }
 
             ]
