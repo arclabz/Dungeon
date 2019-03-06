@@ -64,7 +64,12 @@
 			{ "model": "new/book15", "y": 90},
             { "model": "new/book15", "y": 180},
             { "model": "new/book15", "y": 270},
-			{ "model": "new/book15" }
+			{ "model": "new/book15" },
+			{ "model": "new/book16", "y": 90},
+            { "model": "new/book16", "y": 180},
+            { "model": "new/book16", "y": 270},
+			{ "model": "new/book16" }
+
 
 
         ]
