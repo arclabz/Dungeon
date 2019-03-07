@@ -76,7 +76,11 @@
 			{ "model": "new/book18", "y": 90},
             { "model": "new/book18", "y": 180},
             { "model": "new/book18", "y": 270},
-			{ "model": "new/book18" }
+			{ "model": "new/book18" },
+			{ "model": "new/book19", "y": 90},
+            { "model": "new/book19", "y": 180},
+            { "model": "new/book19", "y": 270},
+			{ "model": "new/book19" }
 
 
         ]
