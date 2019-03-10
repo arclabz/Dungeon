@@ -84,7 +84,23 @@
 			{ "model": "new/book20", "y": 90},
             { "model": "new/book20", "y": 180},
             { "model": "new/book20", "y": 270},
-			{ "model": "new/book20" }
+			{ "model": "new/book20" },
+			{ "model": "new/book21", "y": 90},
+            { "model": "new/book21", "y": 180},
+            { "model": "new/book21", "y": 270},
+			{ "model": "new/book21" },
+			{ "model": "new/book22", "y": 90},
+            { "model": "new/book22", "y": 180},
+            { "model": "new/book22", "y": 270},
+			{ "model": "new/book22" },
+			{ "model": "new/book23", "y": 90},
+            { "model": "new/book23", "y": 180},
+            { "model": "new/book23", "y": 270},
+			{ "model": "new/book23" },
+			{ "model": "new/book24", "y": 90},
+            { "model": "new/book24", "y": 180},
+            { "model": "new/book24", "y": 270},
+			{ "model": "new/book24" }
 
         ]
     }
