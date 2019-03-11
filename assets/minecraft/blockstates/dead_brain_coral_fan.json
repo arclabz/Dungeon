@@ -25,10 +25,6 @@
             { "model": "new/book6", "y": 180},
             { "model": "new/book6", "y": 270},
 			{ "model": "new/book6" },
-			{ "model": "new/book6b", "y": 90},
-            { "model": "new/book6b", "y": 180},
-            { "model": "new/book6b", "y": 270},
-			{ "model": "new/book6b" },
 			{ "model": "new/book7", "y": 90},
             { "model": "new/book7", "y": 180},
             { "model": "new/book7", "y": 270},
@@ -100,11 +96,7 @@
 			{ "model": "new/book24", "y": 90},
             { "model": "new/book24", "y": 180},
             { "model": "new/book24", "y": 270},
-			{ "model": "new/book24" },
-			{ "model": "new/book25", "y": 90},
-            { "model": "new/book25", "y": 180},
-            { "model": "new/book25", "y": 270},
-			{ "model": "new/book25" }
+			{ "model": "new/book24" }
 
         ]
     }
