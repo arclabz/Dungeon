@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "item/g",
 	"textures": {
 		"layer0": "item/compass_07"
 	}
