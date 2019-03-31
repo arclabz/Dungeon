@@ -21,6 +21,24 @@
                 "custom_model_data": 3
             },
             "model": "chest/mimic_2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "chest/mimic_0_hurt"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "chest/mimic_1_hurt"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "chest/mimic_2_hurt"
         }
 	]
 }
