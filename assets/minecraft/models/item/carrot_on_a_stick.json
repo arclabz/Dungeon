@@ -8,7 +8,19 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/gray_banner"
+            "model": "item/special/banner"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/special/banner"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "chest/mimic_1"
         }
 	]
 }
