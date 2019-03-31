@@ -1,0 +1,26 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/stone"
+    },
+	"overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "chest/a"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "chest/mimic_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "chest/mimic_2"
+        }
+	]
+}
