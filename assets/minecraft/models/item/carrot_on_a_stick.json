@@ -21,6 +21,66 @@
                 "custom_model_data": 3
             },
             "model": "chest/mimic_1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "lobby/team_red"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "lobby/team_blue"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "lobby/random"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "lobby/no_team"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "lobby/team_red_selected"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "lobby/team_blue_selected"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "lobby/random_selected"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "lobby/no_team_selected"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1009
+            },
+            "model": "lobby/unready"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "lobby/ready"
         }
 	]
 }
