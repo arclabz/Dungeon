@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+	"overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/melee/reinhardt_hammer"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/melee/reinhardt_hammer_recharge"
+        }
+	]
+}
