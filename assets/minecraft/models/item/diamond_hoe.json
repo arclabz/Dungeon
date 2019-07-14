@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+	"overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/melee/poisoned_dagger"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/melee/assassins_dagger"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/melee/vampires_dagger"
+        }
+	]
+}
