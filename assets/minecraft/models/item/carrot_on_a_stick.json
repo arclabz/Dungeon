@@ -30,6 +30,12 @@
         },
 		{
             "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "item/melee/mjoelnir_discharged"
+        },
+		{
+            "predicate": {
                 "custom_model_data": 1001
             },
             "model": "lobby/team_red"
