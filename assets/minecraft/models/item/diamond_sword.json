@@ -9,6 +9,18 @@
                 "custom_model_data": 1
             },
             "model": "item/melee/fire_sword"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/melee/defenders_sword"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/melee/sword_of_courage"
         }
 	]
 }

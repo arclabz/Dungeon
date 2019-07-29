@@ -15,6 +15,12 @@
                 "custom_model_data": 2
             },
             "model": "item/melee/reinhardt_hammer_recharge"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/melee/squeaky_hammer"
         }
 	]
 }
