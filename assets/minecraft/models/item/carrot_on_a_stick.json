@@ -93,6 +93,36 @@
                 "custom_model_data": 1010
             },
             "model": "lobby/ready"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10001
+            },
+            "model": "item/rune/rune_health"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10002
+            },
+            "model": "item/rune/rune_speed"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10003
+            },
+            "model": "item/rune/rune_armor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10004
+            },
+            "model": "item/rune/rune_attack_speed"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10005
+            },
+            "model": "item/rune/rune_luck"
         }
 	]
 }
