@@ -24,6 +24,18 @@
         },
 		{
             "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/special/portal_crystal"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/special/portal_crystal_activated"
+        },
+		{
+            "predicate": {
                 "custom_model_data": 101
             },
             "model": "item/melee/mjoelnir"
