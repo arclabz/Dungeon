@@ -7,6 +7,7 @@ copy default.json be_by.json
 copy default.json bg_bg.json
 copy default.json br_fr.json
 copy default.json brb.json
+copy default.json bs_ba.json
 copy default.json bs_BA.json
 copy default.json ca_es.json
 copy default.json cs_cz.json
@@ -28,6 +29,7 @@ copy default.json enp.json
 copy default.json en_ws.json
 copy default.json eo_uy.json
 copy default.json es_ar.json
+copy default.json es_cl.json
 copy default.json es_CL.json
 copy default.json es_es.json
 copy default.json es_mx.json
@@ -106,6 +108,7 @@ copy default.json swg.json
 copy default.json sxu.json
 copy default.json szl.json
 copy default.json ta_in.json
+copy default.json ta_IN.json
 copy default.json th_th.json
 copy default.json tlh_aa.json
 copy default.json tr_tr.json
