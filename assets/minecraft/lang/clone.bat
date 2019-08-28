@@ -21,6 +21,7 @@ copy default.json en_ca.json
 copy default.json en_gb.json
 copy default.json en_nz.json
 copy default.json en_pt.json
+copy default.json en_7s.json
 copy default.json en_ud.json
 copy default.json en_us.json
 copy default.json enp.json
