@@ -36,6 +36,18 @@
         },
 		{
             "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/special/beetroot_oil"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/special/guard"
+        },
+		{
+            "predicate": {
                 "custom_model_data": 101
             },
             "model": "item/melee/mjoelnir"
