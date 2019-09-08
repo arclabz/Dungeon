@@ -40,6 +40,32 @@
                 "custom_model_data": 6
             },
             "model": "item/armor/pillager_armor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "item/armor/stone_armor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/armor/iron_chestplate"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "item/armor/diamond_chestplate"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/armor/golden_chestplate"
         }
+		
+		
 	]
 }
