@@ -15,7 +15,7 @@
                 "custom_model_data": 2
             },
             "model": "item/melee/assassins_dagger"
-        ,
+        },
 		{
             "predicate": {
                 "custom_model_data": 3
