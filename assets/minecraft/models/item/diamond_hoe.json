@@ -15,12 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "item/melee/assassins_dagger"
-        },
+        ,
 		{
             "predicate": {
                 "custom_model_data": 3
             },
             "model": "item/melee/vampires_dagger"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/special/beetroot_oil"
         }
 	]
 }
