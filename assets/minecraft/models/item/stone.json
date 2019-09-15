@@ -39,6 +39,12 @@
                 "custom_model_data": 6
             },
             "model": "chest/mimic_2_hurt"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/special/beetroot_oil_head"
         }
 	]
 }
