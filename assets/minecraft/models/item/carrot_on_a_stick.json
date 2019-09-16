@@ -22,6 +22,12 @@
             },
             "model": "chest/mimic_1"
         },
+				{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/flag1"
+        },
 		{
             "predicate": {
                 "custom_model_data": 5
