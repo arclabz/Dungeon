@@ -4,11 +4,11 @@
         "layer0": "item/carrot_on_a_stick"
     },
 	"overrides": [
-        {
+				{
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/special/banner"
+            "model": "item/flag2"
         },
 		{
             "predicate": {
