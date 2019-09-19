@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "chest/mimic_1"
+            "model": "item/special/mimic_wand"
         },
 				{
             "predicate": {
