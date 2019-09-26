@@ -18,7 +18,7 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 2
+                "custom_model_data": 3
             },
             "model": "item/melee/squeaky_hammer"
         }
