@@ -64,8 +64,12 @@
                 "custom_model_data": 11
             },
             "model": "item/armor/golden_chestplate"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "item/armor/turtle_armor"
         }
-		
-		
 	]
 }
