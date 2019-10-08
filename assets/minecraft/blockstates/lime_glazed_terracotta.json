@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=south": { "model": "block/lime_terracotta" },
-        "facing=west": { "model": "block/lime_terracotta"},
-        "facing=north": { "model": "block/lime_terracotta"},
-        "facing=east": { "model": "block/lime_terracotta"}
-    }
-}
