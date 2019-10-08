@@ -67,7 +67,7 @@
         },
 		{
             "predicate": {
-                "custom_model_data": 11
+                "custom_model_data": 12
             },
             "model": "item/armor/turtle_armor"
         }
