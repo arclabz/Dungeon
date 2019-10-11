@@ -1,0 +1,12 @@
+
+
+{
+    "variants": {
+        "": [ { "model": "block/carpet/full_carpet",   "weight": 40  },
+              { "model": "block/carpet/full_carpet02",  "weight": 10  },
+              { "model": "block/carpet/full_carpet03",  "weight": 20  },
+              { "model": "block/carpet/big_hole_carpet",  "weight": 5  },
+              { "model": "block/carpet/small_hole_carpet",  "weight": 10   }
+           ]
+    }
+}
