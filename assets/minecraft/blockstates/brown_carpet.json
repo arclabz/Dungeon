@@ -2,7 +2,7 @@
 
 {
     "variants": {
-        "": [ { "model": "block/carpet/full_carpet",   "weight": 150  },
+        "": [ { "model": "block/carpet/full_carpet",   "weight": 200  },
               { "model": "block/carpet/full_carpet02",  "weight": 10  },
               { "model": "block/carpet/full_carpet03",  "weight": 20  },
               { "model": "block/carpet/full_carpet04",  "weight": 20  },
@@ -11,7 +11,7 @@
               { "model": "block/carpet/small_hole_carpet",  "weight": 10   },
 	            { "model": "block/carpet/three_holes_carpet",  "weight": 5   },
 
-              { "model": "block/carpet/full_carpet","y": 180,   "weight": 40  },
+              { "model": "block/carpet/full_carpet","y": 180,   "weight": 200  },
               { "model": "block/carpet/full_carpet02","y": 180,  "weight": 10  },
               { "model": "block/carpet/full_carpet03","y": 180,  "weight": 20  },
               { "model": "block/carpet/full_carpet04","y": 180,  "weight": 20  },
