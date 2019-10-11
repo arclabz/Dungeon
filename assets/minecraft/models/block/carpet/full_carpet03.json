@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by LardTom",
 	"textures": {
-		"particle": "blocks/carpet_brown03"
-		"texture": "blocks/carpet_brown03"
+		"particle": "carpet/carpet_brown03",
+		"texture": "carpet/carpet_brown03"
 	},
 	"elements": [
 		{
