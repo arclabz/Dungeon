@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by LardTom",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture"
+		"particle": "carpet/carpet_brown05",
+		"texture": "carpet/carpet_brown05"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Box11",
 			"from": [ 0, 0, 0 ],
