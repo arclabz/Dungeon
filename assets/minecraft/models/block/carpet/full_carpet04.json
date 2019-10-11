@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by LardTom",
+	"parent": "full_carpet_parent",
+	"textures": {
+		"particle": "carpet/carpet_brown04",
+		"texture": "carpet/carpet_brown04"
+	}
+	}
+}
