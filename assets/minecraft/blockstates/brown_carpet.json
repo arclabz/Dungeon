@@ -16,8 +16,9 @@
               { "model": "block/carpet/full_carpet03","y": 180,  "weight": 20  },
               { "model": "block/carpet/full_carpet04","y": 180,  "weight": 20  },
               { "model": "block/carpet/full_carpet05","y": 180,  "weight": 20  },
-              { "model": "block/carpet/big_hole_carpet","y": 180,  "weight": 5  },
-              { "model": "block/carpet/small_hole_carpet","y": 180,  "weight": 10   }
+              { "model": "block/carpet/big_hole_carpet_rotated","y": 180,  "weight": 5  },
+              { "model": "block/carpet/small_hole_carpet_rotated","y": 180,  "weight": 10   },
+              { "model": "block/carpet/three_holes_carpet_rotated","y": 180,  "weight": 5   }
            ]
     }
 }

@@ -5,7 +5,7 @@
 		"texture": "carpet/carpet_brown",
 		"texture1": "block/spruce_planks"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Box27",
 			"from": [ 0, 0, 0 ],
@@ -180,8 +180,8 @@
 			"from": [ 0, 0, 0 ],
 			"to": [ 16, 0.001, 16 ],
 			"faces": {
-				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1" },
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1", "rotation": 180 },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1", "rotation": 180 },
 				"north": { "uv": [ 0, 15.999, 16, 16 ], "texture": "#texture1" },
 				"south": { "uv": [ 0, 15.999, 16, 16 ], "texture": "#texture1" },
 				"west": { "uv": [ 0, 15.999, 16, 16 ], "texture": "#texture1" },
