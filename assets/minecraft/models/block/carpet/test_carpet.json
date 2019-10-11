@@ -1,7 +1,12 @@
 {
-	"elements": [
+	"__comment": "Designed by LardTom",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "blocks/e_texture"
+	},
+	"elements": [ 	 
 		{
-			"__comment": "Box1",
+			"__comment": "Box11",
 			"from": [ 0, 0, 0 ],
 			"to": [ 16, 1, 16 ],
 			"faces": {
@@ -43,9 +48,6 @@
 		"ground": {
 			"translation":  [ 0, 3, 0 ],
 			"scale":  [ 0.25, 0.25, 0.25 ]
-		},
-		"fixed": {
-			"scale":  [ 0.5, 0.5, 0.5 ]
 		}
 	}
 }
