@@ -1,8 +1,8 @@
 {
     "variants": {
-        "facing=north": [{ "model": "block/ladder", "weight":7 },{ "model": "block/ladder1",  "weight": 5 },{ "model": "block/ladder2",  "weight": 5 },{ "model": "block/ladder3",  "weight": 5 },{ "model": "block/ladder4",  "weight": 2 }],
-        "facing=east":  [{ "model": "block/ladder", "y": 90,"weight":7 },{ "model": "block/ladder1", "y": 90,"weight": 5 },{ "model": "block/ladder2", "y": 90,"weight": 5 },{ "model": "block/ladder3", "y": 90,"weight": 5 },{ "model": "block/ladder4", "y": 90,"weight": 2 }],
-        "facing=south": [{ "model": "block/ladder", "y": 180,"weight":7 },{ "model": "block/ladder1", "y": 180,"weight": 5 },{ "model": "block/ladder2", "y": 180,"weight": 5 },{ "model": "block/ladder3", "y": 180,"weight": 5 },{ "model": "block/ladder4", "y": 180,"weight": 2 }],
-        "facing=west":  [{ "model": "block/ladder", "y": 270,"weight":7 },{ "model": "block/ladder1", "y": 270,"weight": 5 },{ "model": "block/ladder2", "y": 270,"weight": 5 },{ "model": "block/ladder3", "y": 270,"weight": 5 },{ "model": "block/ladder4", "y": 270,"weight": 2 }]
+        "facing=north": [{ "model": "block/ladder/ladder", "weight":7 },{ "model": "block/ladder/ladder1",  "weight": 5 },{ "model": "block/ladder/ladder2",  "weight": 5 },{ "model": "block/ladder/ladder3",  "weight": 5 },{ "model": "block/ladder/ladder4",  "weight": 2 }],
+        "facing=east":  [{ "model": "block/ladder/ladder", "y": 90,"weight":7 },{ "model": "block/ladder/ladder1", "y": 90,"weight": 5 },{ "model": "block/ladder/ladder2", "y": 90,"weight": 5 },{ "model": "block/ladder/ladder3", "y": 90,"weight": 5 },{ "model": "block/ladder/ladder4", "y": 90,"weight": 2 }],
+        "facing=south": [{ "model": "block/ladder/ladder", "y": 180,"weight":7 },{ "model": "block/ladder/ladder1", "y": 180,"weight": 5 },{ "model": "block/ladder/ladder2", "y": 180,"weight": 5 },{ "model": "block/ladder/ladder3", "y": 180,"weight": 5 },{ "model": "block/ladder/ladder4", "y": 180,"weight": 2 }],
+        "facing=west":  [{ "model": "block/ladder/ladder", "y": 270,"weight":7 },{ "model": "block/ladder/ladder1", "y": 270,"weight": 5 },{ "model": "block/ladder/ladder2", "y": 270,"weight": 5 },{ "model": "block/ladder/ladder3", "y": 270,"weight": 5 },{ "model": "block/ladder/ladder4", "y": 270,"weight": 2 }]
     }
 }

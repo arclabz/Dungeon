@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/bookshelf11" }
+        "": { "model": "block/bookshelf/bookshelf11" }
     }
 }
