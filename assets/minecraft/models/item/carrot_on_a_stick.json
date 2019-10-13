@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/flag2"
+            "model": "item/special/flag2"
         },
 		{
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/flag3"
+            "model": "item/special/flag3"
         },
 		{
             "predicate": {
@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/flag1"
+            "model": "item/special/flag1"
         },
 		{
             "predicate": {
