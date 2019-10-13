@@ -1,0 +1,10 @@
+
+
+{
+    "variants": {
+        "": [ { "model": "block/alternate_oak/oak_planks",   "weight": 40  },
+              { "model": "block/alternate_oak/oak_planks_02",  "weight": 10  },
+              { "model": "block/alternate_oak/oak_planks_03",  "weight": 10  }
+           ]
+    }
+}
