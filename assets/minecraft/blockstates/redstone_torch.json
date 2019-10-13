@@ -1,6 +1,6 @@
 {
     "variants": {
-        "lit=true":  { "model": "block/torch" },
-        "lit=false":  { "model": "block/torch" }
+        "lit=true":  { "model": "block/torch/torch" },
+        "lit=false":  { "model": "block/torch/torch" }
     }
 }
