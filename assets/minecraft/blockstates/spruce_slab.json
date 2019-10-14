@@ -1,0 +1,36 @@
+{
+    "variants": {
+        "type=bottom": [{ "model": "block/spruce_slabs/spruce_slab" },
+                        { "model": "block/spruce_slabs/spruce_slab0" },
+                        { "model": "block/spruce_slabs/spruce_slab1" },
+                        { "model": "block/spruce_slabs/spruce_slab2" },
+                        { "model": "block/spruce_slabs/spruce_slab3" },
+                        { "model": "block/mspruce_slabs/spruce_slab" },
+                        { "model": "block/mspruce_slabs/spruce_slab0" },
+                        { "model": "block/mspruce_slabs/spruce_slab1" },
+                        { "model": "block/mspruce_slabs/spruce_slab2" },
+                        { "model": "block/mspruce_slabs/spruce_slab3" }
+                        ],
+        "type=top": [{ "model": "block/spruce_slabs/spruce_slab_top" },
+                        { "model": "block/spruce_slabs/spruce_slab_top0" },
+                        { "model": "block/spruce_slabs/spruce_slab_top1" },
+                        { "model": "block/spruce_slabs/spruce_slab_top2" },
+                        { "model": "block/spruce_slabs/spruce_slab_top3" },
+                        { "model": "block/mspruce_slabs/spruce_slab_top" },
+                        { "model": "block/mspruce_slabs/spruce_slab_top0" },
+                        { "model": "block/mspruce_slabs/spruce_slab_top1" },
+                        { "model": "block/mspruce_slabs/spruce_slab_top2" },
+                        { "model": "block/mspruce_slabs/spruce_slab_top3" }
+                        ],
+        "type=double": [{ "model": "block/alternate_spruce_oak/1",   "weight": 50  },
+                        { "model": "block/alternate_spruce_oak/2",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/3",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/4",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/5",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/m1",   "weight": 50  },
+                        { "model": "block/alternate_spruce_oak/m2",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/m3",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/m4",  "weight": 10  },
+                        { "model": "block/alternate_spruce_oak/m5",  "weight": 10  }]
+    }
+}
