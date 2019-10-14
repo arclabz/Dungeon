@@ -16,7 +16,23 @@
               { "model": "block/bookshelf/bookshelf12", "weight": 4  },
               { "model": "block/bookshelf/bookshelf13", "weight": 20  },
 			        { "model": "block/bookshelf/bookshelf14", "weight": 20  },
-			        { "model": "block/bookshelf/bookshelf16", "weight": 10  }
+			        { "model": "block/bookshelf/bookshelf16", "weight": 10  },
+              { "model": "block/bookshelf/bookshelf",   "weight": 40  },
+              { "model": "block/bookshelf/bookshelfm",   "weight": 40  },
+                    { "model": "block/bookshelf/bookshelf1m",  "weight": 30  },
+                    { "model": "block/bookshelf/bookshelf2m",  "weight": 30  },
+                    { "model": "block/bookshelf/bookshelf3m",  "weight": 30  },
+                    { "model": "block/bookshelf/bookshelf4m",  "weight": 2   },
+                    { "model": "block/bookshelf/bookshelf5m",  "weight": 20  },
+                    { "model": "block/bookshelf/bookshelf6m",  "weight": 5   },
+                    { "model": "block/bookshelf/bookshelf7m",  "weight": 14  },
+                    { "model": "block/bookshelf/bookshelf9m",  "weight": 4   },
+                    { "model": "block/bookshelf/bookshelf10m", "weight": 12  },
+                    { "model": "block/bookshelf/bookshelf11m", "weight": 12  },
+                    { "model": "block/bookshelf/bookshelf12m", "weight": 4  },
+                    { "model": "block/bookshelf/bookshelf13m", "weight": 20  },
+      			        { "model": "block/bookshelf/bookshelf14m", "weight": 20  },
+      			        { "model": "block/bookshelf/bookshelf16m", "weight": 10  }
            ]
     }
 }
