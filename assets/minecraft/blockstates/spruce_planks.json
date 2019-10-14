@@ -5,7 +5,7 @@
               { "model": "block/alternate_spruce_oak/3",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/4",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/5",  "weight": 10  },
-              { "model": "block/alternate_spruce_oak/m1",   "weight": 40  },
+              { "model": "block/alternate_spruce_oak/m1",   "weight": 50  },
               { "model": "block/alternate_spruce_oak/m2",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/m3",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/m4",  "weight": 10  },
