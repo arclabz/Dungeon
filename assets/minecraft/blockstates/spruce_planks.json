@@ -1,6 +1,6 @@
 {
     "variants": {
-        "": [ { "model": "block/alternate_spruce_oak/1",   "weight": 40  },
+        "": [ { "model": "block/alternate_spruce_oak/1",   "weight": 50  },
               { "model": "block/alternate_spruce_oak/2",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/3",  "weight": 10  },
               { "model": "block/alternate_spruce_oak/4",  "weight": 10  },
