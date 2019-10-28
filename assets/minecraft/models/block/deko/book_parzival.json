@@ -4,7 +4,7 @@
 		"book_parzival": "dungoen/book_parzival",
 		"title_parzival": "dungoen/title_parzival"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Box1",
 			"from": [ 5, 5.001, 3 ],

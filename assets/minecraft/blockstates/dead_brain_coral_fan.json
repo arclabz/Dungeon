@@ -134,7 +134,12 @@
             { "model": "block/deko/monokel", "y": 90, "weight":2},
             { "model": "block/deko/monokel", "y": 180, "weight":2},
             { "model": "block/deko/monokel", "y": 270, "weight":2},
-            { "model": "block/deko/monokel", "weight":2 }
+            { "model": "block/deko/monokel", "weight":2 },
+
+            { "model": "block/deko/book_parzival", "y": 90, "weight":2},
+            { "model": "block/deko/book_parzival", "y": 180, "weight":2},
+            { "model": "block/deko/book_parzival", "y": 270, "weight":2},
+            { "model": "block/deko/book_parzival", "weight":2 }
 
         ]
     }
