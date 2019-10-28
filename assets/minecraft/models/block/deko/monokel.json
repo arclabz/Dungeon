@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by LardTom",
 	"textures": {
-		"voxels_atlas": "dungeon/monokel",
+		"voxels_atlas": "dungoen/monokel",
 		"texture": "dungoen/monokel_glass"
 	},
 	"elements": [
