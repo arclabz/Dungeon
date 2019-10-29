@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/alternate_dark_oak/dark_oak_planks_02m",
+        "top": "block/alternate_dark_oak/dark_oak_planks_02m",
+        "side": "block/alternate_dark_oak/dark_oak_planks_02m"
+    }
+}

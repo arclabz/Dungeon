@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "type=bottom": [{ "model": "block/dark_oak_slabs/oak_slab" ,   "weight": 4 },
+                        { "model": "block/dark_oak_slabs/oak_slab0" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab1" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab2" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab3" ,  "weight": 4 },
+                        { "model": "block/dark_oak_slabs/oak_slab4" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab5" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab6",  "weight": 1  }
+                        ],
+        "type=top": [{ "model": "block/dark_oak_slabs/oak_slab_top" ,   "weight": 4 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top0" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top1" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top2" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top3" ,  "weight": 4 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top4" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top5" ,  "weight": 1 },
+                        { "model": "block/dark_oak_slabs/oak_slab_top6",  "weight": 1  }
+                        ],
+        "type=double": [{ "model": "block/alternate_dark_oak/oak_planks",   "weight": 4  },
+              { "model": "block/alternate_dark_oak/oak_planks02",  "weight": 1  },
+              { "model": "block/alternate_dark_oak/oak_planks03",  "weight": 1  },
+              { "model": "block/alternate_dark_oak/oak_planks04",  "weight": 1  },
+              { "model": "block/alternate_dark_oak/oak_planks05",  "weight": 4  },
+              { "model": "block/alternate_dark_oak/oak_planks06",  "weight": 1  },
+              { "model": "block/alternate_dark_oak/oak_planks07",   "weight": 1  },
+              { "model": "block/alternate_dark_oak/oak_planks08",  "weight": 1  }]
+    }
+}
