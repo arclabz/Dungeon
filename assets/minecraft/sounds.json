@@ -1,7 +1,1 @@
-{
-  "ambient.cave": {
-    "replace": true,
-    "sounds":
-      ["nothing"]
-  }
-}
+{"ambient.cave":{"replace":true}}
