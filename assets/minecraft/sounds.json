@@ -1,0 +1,7 @@
+{
+  "ambient.cave": {
+    "replace": true,
+    "sounds":
+      ["nothing"]
+  }
+}
