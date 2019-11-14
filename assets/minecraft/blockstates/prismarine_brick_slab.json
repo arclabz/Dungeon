@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/dark_oak_slabs/oak_slab0" },
+        "type=top": { "model": "block/dark_oak_slabs/oak_slab_top0" },
+        "type=double": { "model": "block/alternate_dark_oak/oak_planks02" }
+    }
+}

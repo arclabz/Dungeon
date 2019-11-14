@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/spruce_slabs/spruce_slab1" },
+        "type=top": { "model": "block/spruce_slabs/spruce_slab_top1" },
+        "type=double": { "model": "block/alternate_spruce_oak/3" }
+    }
+}
