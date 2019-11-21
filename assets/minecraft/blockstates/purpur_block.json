@@ -1,6 +1,5 @@
-
 {
     "variants": {
-        "": { "model": "block/black_terracotta" }
+        "": { "model": "block/alternate_dark_oak/oak_planks" }
     }
 }
