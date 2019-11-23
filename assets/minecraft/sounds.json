@@ -1,1 +1,16 @@
-{"ambient.cave":{"replace":true}}
+{"ambient.cave":{"replace":true},
+"dd.00": {"sounds":["00"] },
+"dd.01": {"sounds":["01"] },
+"dd.02": {"sounds":["02"] },
+"dd.03a": {"sounds":["03a"] },
+"dd.03b": {"sounds":["03b"] },
+"dd.03c": {"sounds":["03c"] },
+"dd.04": {"sounds":["04"] },
+"dd.05a": {"sounds":["05a"] },
+"dd.05b": {"sounds":["05b"] },
+"dd.06": {"sounds":["06"] },
+"dd.07": {"sounds":["07"] },
+"dd.08a": {"sounds":["08a"] },
+"dd.08b": {"sounds":["08b"] },
+"dd.08c": {"sounds":["08c"] }
+}
