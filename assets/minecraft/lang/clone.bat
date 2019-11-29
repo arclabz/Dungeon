@@ -121,3 +121,4 @@ copy default.json vi_vn.json
 copy default.json yo_ng.json
 copy default.json zh_cn.json
 copy default.json zh_tw.json
+copy default.json yi_de.json
