@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "block/alternate_cobweb/cobweb1"
+    }
+}
