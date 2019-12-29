@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/special/mimic_wand"
+		"layer0": "item/special/paint_brush"
 	}
 }
