@@ -12,11 +12,16 @@
 "dd.03b": {"sounds":["03b"] },
 "dd.03c": {"sounds":["03c"] },
 "dd.04": {"sounds":["04"] },
-"dd.05a": {"sounds":["05a"] },
-"dd.05b": {"sounds":["05b"] },
+"dd.05a": {"sounds":["05"] },
 "dd.06": {"sounds":["06"] },
 "dd.07": {"sounds":["07"] },
 "dd.08a": {"sounds":["08a"] },
 "dd.08b": {"sounds":["08b"] },
-"dd.08c": {"sounds":["08c"] }
+"dd.08c": {"sounds":["08c"] },
+"dd.09": {"sounds":["09"] },
+"dd.10": {"sounds":["10"] },
+"dd.11": {"sounds":["11"] },
+"dd.12": {"sounds":["12"] },
+"dd.13": {"sounds":["13"] },
+"dd.14": {"sounds":["14"] }
 }
