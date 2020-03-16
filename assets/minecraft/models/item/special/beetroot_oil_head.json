@@ -4,7 +4,7 @@
 		"1": "item/special/beetroot_oil_front",
 		"2": "item/special/beetroot_oil_side_1",
 		"3": "item/special/beetroot_oil_side_2",
-		"4": "misc/enchanted_item_glint",
+		"4": "block/bookshelf",
 		"particle": "item/special/beetroot_oil_top"
 	},
 	"elements": [

@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "misc/enchanted_item_glint",
+        "layer0": "block/bookshelf",
         "layer1": "item/armor/revenge_armor"
     }
 }
