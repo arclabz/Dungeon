@@ -1,6 +1,6 @@
 {
 	"parent": "item/crossbow",
 	"textures": {
-		"layer0": "item/crossbow/linger/pulling_0"
+		"layer0": "item/crossbow/ice/standby"
 	}
 }

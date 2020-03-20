@@ -204,14 +204,14 @@
 				"custom_model_data": 4,
                 "pulling": 0
             },
-            "model": "item/crossbow/linger/standby"
+            "model": "item/crossbow/ice/standby"
         },
 		{
             "predicate": {
 				"custom_model_data": 4,
                 "pulling": 1
             },
-            "model": "item/crossbow/linger/pulling_0"
+            "model": "item/crossbow/ice/pulling_0"
         },
         {
             "predicate": {
@@ -219,7 +219,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "item/crossbow/linger/pulling_1"
+            "model": "item/crossbow/ice/pulling_1"
         },
         {
             "predicate": {
@@ -227,14 +227,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "item/crossbow/linger/pulling_2"
+            "model": "item/crossbow/ice/pulling_2"
         },
         {
             "predicate": {
 				"custom_model_data": 4,
                 "charged": 1
             },
-            "model": "item/crossbow/linger/arrow"
+            "model": "item/crossbow/ice/arrow"
         },
         {
             "predicate": {
@@ -242,7 +242,7 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "item/crossbow/linger/firework"
+            "model": "item/crossbow/ice/firework"
         },
 		{
             "predicate": {
