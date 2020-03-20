@@ -1,16 +1,1 @@
-{
-	"__comment": "Designed by LardTom",
-	"textures": {
-		"texture": "block/portal_animation"
-	},
-	"elements": [ 	 
-		{
-			"__comment": "Box1",
-			"from": [ -16, 15, -16 ],
-			"to": [ 32, 16, 32 ],
-			"faces": {
-				"up": { "uv": [ 0, 0, 6, 6 ], "texture": "#texture" }
-			}
-		}
-	]
-}
+{"textures":{"0":"block/portal_animation"},"elements":[{"from":[-16,16,-16],"to":[32,16,32],"faces":{"up":{"uv":[0,0,6,6],"texture":"#0"}}}]}
