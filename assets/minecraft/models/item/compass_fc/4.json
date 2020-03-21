@@ -1,0 +1,6 @@
+{
+	"parent": "item/g",
+	"textures": {
+		"layer0": "item/compass/compass_12_fc"
+	}
+}
