@@ -1,6 +1,6 @@
 {
     "variants": {
         "powered=false": { "model": "block/black_carpet" , "y": 90},
-        "powered=true": { "model": "block/black_carpet" , "y": 90}
+        "powered=true": { "model": "block/black_carpet" , "y": 90} 
     }
 }
