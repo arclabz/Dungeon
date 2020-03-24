@@ -6,12 +6,6 @@
 	"overrides": [
 		{
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "item/firework_rocket_weak"
-        },
-		{
-            "predicate": {
                 "custom_model_data": 2
             },
             "model": "item/firework_rocket_strong"
