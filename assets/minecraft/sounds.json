@@ -8,6 +8,14 @@
 "entity.fishing_bobber.throw":{"replace":true},
 "entity.fishing_bobber.retrieve":{"replace":true},
 "entity.fishing_bobber.splash":{"replace":true},
+"block.slime_block.step": {"sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ],"replace":true},
 "dd.00": {"sounds":["00"] },
 "dd.01": {"sounds":["01"] },
 "dd.02": {"sounds":["02"] },
