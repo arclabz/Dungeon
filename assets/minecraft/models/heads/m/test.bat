@@ -1,4 +1,4 @@
-SET /A "count = 100"
+SET /A "count = 42"
 
 SET /A "index = 0"
 SET /A "count = count * 4"
