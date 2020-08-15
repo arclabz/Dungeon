@@ -1,0 +1,6 @@
+:loop2
+if %bookx% leq %book% (
+echo BOOK %bookx% >> a.txt
+SET /A "bookx = bookx + 1"
+goto :loop2
+)
