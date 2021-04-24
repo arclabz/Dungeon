@@ -1,0 +1,392 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 100000
+            },
+            "model": "item/compass/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100001
+            },
+            "model": "item/compass/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100002
+            },
+            "model": "item/compass/2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100003
+            },
+            "model": "item/compass/3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100004
+            },
+            "model": "item/compass/4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100005
+            },
+            "model": "item/compass/5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100006
+            },
+            "model": "item/compass/6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100007
+            },
+            "model": "item/compass/7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100008
+            },
+            "model": "item/compass/8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100009
+            },
+            "model": "item/compass/9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100010
+            },
+            "model": "item/compass/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100011
+            },
+            "model": "item/compass/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100012
+            },
+            "model": "item/compass/12"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100013
+            },
+            "model": "item/compass/13"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100014
+            },
+            "model": "item/compass/14"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100015
+            },
+            "model": "item/compass/15"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100016
+            },
+            "model": "item/compass/16"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100017
+            },
+            "model": "item/compass/17"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100018
+            },
+            "model": "item/compass/18"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100019
+            },
+            "model": "item/compass/19"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100020
+            },
+            "model": "item/compass/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100021
+            },
+            "model": "item/compass/21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100022
+            },
+            "model": "item/compass/22"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100023
+            },
+            "model": "item/compass/23"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100024
+            },
+            "model": "item/compass/24"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100025
+            },
+            "model": "item/compass/25"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100026
+            },
+            "model": "item/compass/26"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100027
+            },
+            "model": "item/compass/27"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100028
+            },
+            "model": "item/compass/28"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100029
+            },
+            "model": "item/compass/29"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100030
+            },
+            "model": "item/compass/30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100031
+            },
+            "model": "item/compass/31"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110000
+            },
+            "model": "item/compass_fc/0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110001
+            },
+            "model": "item/compass_fc/1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110002
+            },
+            "model": "item/compass_fc/2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110003
+            },
+            "model": "item/compass_fc/3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110004
+            },
+            "model": "item/compass_fc/4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110005
+            },
+            "model": "item/compass_fc/5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110006
+            },
+            "model": "item/compass_fc/6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110007
+            },
+            "model": "item/compass_fc/7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110008
+            },
+            "model": "item/compass_fc/8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110009
+            },
+            "model": "item/compass_fc/9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110010
+            },
+            "model": "item/compass_fc/10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110011
+            },
+            "model": "item/compass_fc/11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110012
+            },
+            "model": "item/compass_fc/12"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110013
+            },
+            "model": "item/compass_fc/13"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110014
+            },
+            "model": "item/compass_fc/14"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110015
+            },
+            "model": "item/compass_fc/15"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110016
+            },
+            "model": "item/compass_fc/16"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110017
+            },
+            "model": "item/compass_fc/17"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110018
+            },
+            "model": "item/compass_fc/18"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110019
+            },
+            "model": "item/compass_fc/19"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110020
+            },
+            "model": "item/compass_fc/20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110021
+            },
+            "model": "item/compass_fc/21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110022
+            },
+            "model": "item/compass_fc/22"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110023
+            },
+            "model": "item/compass_fc/23"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110024
+            },
+            "model": "item/compass_fc/24"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110025
+            },
+            "model": "item/compass_fc/25"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110026
+            },
+            "model": "item/compass_fc/26"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110027
+            },
+            "model": "item/compass_fc/27"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110028
+            },
+            "model": "item/compass_fc/28"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110029
+            },
+            "model": "item/compass_fc/29"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110030
+            },
+            "model": "item/compass_fc/30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110031
+            },
+            "model": "item/compass_fc/31"
+        }
+	]
+}
