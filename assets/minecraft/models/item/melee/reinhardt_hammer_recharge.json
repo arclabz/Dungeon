@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/melee/reinhardt_hammer_recharge"
+		"layer0": "item/melee/vine_hammer_deactivated"
 	}
 }
