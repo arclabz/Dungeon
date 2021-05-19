@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "shape=east_west": {
+      "model": "block/deko/book6"
+    },
+    "shape=north_south": {
+      "model": "block/deko/book7"
+    }
+  }
+}

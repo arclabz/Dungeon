@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "shape=north_south": {
+      "model": "block/deko/book8"
+    }
+  }
+}
