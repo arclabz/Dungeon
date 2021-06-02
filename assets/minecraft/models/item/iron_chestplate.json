@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/armor/invisibility_chestplate"
+        "layer0": "item/armor/stone_armor"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/armor/furnace_armor"
+        "layer0": "item/armor/pillager_armor"
     }
 }
