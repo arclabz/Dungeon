@@ -16,8 +16,8 @@
       "step/stone5",
       "step/stone6"
     ],"replace":true},
-"dd.00": {"sounds":["00"] },
-"dd.01": {"sounds":["01"] },
+"dd.00": {"sounds":["00_new"] },
+"dd.01": {"sounds":["01_new"] },
 "dd.02": {"sounds":["02"] },
 "dd.03a": {"sounds":["03a"] },
 "dd.03b": {"sounds":["03b"] },
@@ -35,5 +35,5 @@
 "dd.11": {"sounds":["11"] },
 "dd.12": {"sounds":["12"] },
 "dd.13": {"sounds":["13"] },
-"dd.14": {"sounds":["14"] }
+"dd.14": {"sounds":["14_new"] }
 }
