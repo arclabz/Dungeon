@@ -8,6 +8,7 @@
 "entity.fishing_bobber.throw":{"replace":true},
 "entity.fishing_bobber.retrieve":{"replace":true},
 "entity.fishing_bobber.splash":{"replace":true},
+"block.nether_bricks.step":{"replace":true},
 "block.slime_block.step": {"sounds": [
       "step/stone1",
       "step/stone2",
@@ -37,3 +38,4 @@
 "dd.13": {"sounds":["13"] },
 "dd.14": {"sounds":["14_new"] }
 }
+
